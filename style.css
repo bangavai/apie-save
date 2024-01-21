@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: roboto;
+  font-style: italic;
+  background-color: royalblue;
+}
+
+p,
+h1 {
+  margin: 10px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border: 3px solid;
+  border-color: royalblue;
+}
+div {
+  border: 5px solid;
+  border-color: chartreuse;
+  background-color: lightskyblue;
+  margin: 5% 35%;
+  padding: 2%;
+}
+
+span {
+  font-weight: bold;
+}
+
+ul,
+li {
+  margin: 0px 15px;
+  margin-bottom: 10px;
+  list-style: square;
+}
